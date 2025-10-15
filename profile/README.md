@@ -11,7 +11,7 @@ sleet_raycast_hello
 
 ---
 
-**RAYCAST EXTENTIONS FOR NEAR***
+**RAYCAST EXTENTIONS FOR NEAR**
 <br/>
 (by the community)
 
